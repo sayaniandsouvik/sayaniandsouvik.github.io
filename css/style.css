@@ -322,16 +322,31 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-cover .display-t,
 .fh5co-cover .display-tc {
-  height: 900px;
+  height: 1300px;
   display: table;
   width: 100%;
 }
 @media screen and (max-width: 768px) {
   .fh5co-cover .display-t,
   .fh5co-cover .display-tc {
-    height: 600px;
+    height: 800px;
+  }
+  .simply-countdown .simply-days-section{
+    height: 70px;
+    width: 70px;
+  }
+
+  .simply-countdown .simply-section{
+    height: 70px;
+    width: 70px;
+  }
+
+  .simply-countdown .simply-section .simply-amount{
+    font-size: 22px;
   }
 }
+
+
 .fh5co-cover.fh5co-cover-sm {
   height: 600px;
 }
@@ -930,7 +945,10 @@ form label {
   #fh5co-counter .feature-center {
     margin-bottom: 50px;
   }
+
+  
 }
+
 #fh5co-counter .icon {
   width: 70px;
   height: 70px;
@@ -1030,6 +1048,25 @@ form label {
   #fh5co-gallery,
   .fh5co-section {
     padding: 3em 0;
+  }
+
+  .simply-countdown .simply-days-section{
+    height: 70px;
+    width: 70px;
+  }
+
+  .simply-countdown .simply-section{
+    height: 70px;
+    width: 70px;
+  }
+
+  .simply-countdown .simply-section .simply-amount{
+    font-size: 20px;
+  }
+
+  .simply-countdown .simply-section div{
+    height: 70px;
+    width: 70px;
   }
 }
 
