@@ -372,7 +372,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-counter .fh5co-heading span,
 #fh5co-event .fh5co-heading span {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.925);
   text-transform: uppercase;
   font-size: 13px;
   letter-spacing: 2px;
@@ -432,7 +432,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-event .event-wrap p,
 #fh5co-event .event-wrap span {
   display: block;
-  color: rgba(255, 255, 255, 0.8);
+  color: rgb(255, 255, 255);
 }
 #fh5co-counter .event-wrap i,
 #fh5co-event .event-wrap i {
@@ -923,7 +923,7 @@ form label {
 #fh5co-counter .counter-label {
   margin-bottom: 0;
   text-transform: uppercase;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.904);
   letter-spacing: .1em;
 }
 @media screen and (max-width: 768px) {
@@ -1209,7 +1209,7 @@ form label {
 .fh5co-heading p {
   font-size: 18px;
   line-height: 1.5;
-  color: #828282;
+  color: #ffffff;
 }
 .fh5co-heading span {
   text-transform: uppercase;
@@ -1359,7 +1359,7 @@ form label {
   color: #fff;
 }
 #fh5co-started .fh5co-heading p {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.895);
 }
 #fh5co-started .form-control {
   background: rgba(255, 255, 255, 0.2);
